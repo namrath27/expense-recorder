@@ -1,1 +1,1 @@
-This project is a scalable RESTful backend service developed with Spring Boot for managing personal financial data. It demonstrates proficiency in full-stack Java development, database interaction, and adherence to modern API design standards
+
